@@ -3,7 +3,7 @@ Ini adalah project matakuliah Manajement Perangkat Lunak dimana ini adalah proje
 dalam project ini kita membagi berberapa tugas diantaranya:
 Abdul Wahid : Scrum Master
 Ahmad Shafwansyah : UI/UX Desainer
-Kukuh Prasetyo Wibowo : Progamer
+Kukuh Prasetyo Wibowo : Programer
 project ini menngunakan beberapa bahasa pemrogaman yaitu html, php, css, java script, dan sql.
 project ini adalah tentang perizinan mahasiswa di mana mahasiswa bisa izin kuliah tanpa harus mendatangi kantor administrasi untuk meminta izin cukup lewat online dan menunggu aproval dari staff maka sudah bisa izin
 selain itu semua sudah terdata dengan baik di mana mahasiswa bisa melihat perizinan mana yang telah di setujui dan tidak di setujui maupun yang menungggu untuk di setujui.
